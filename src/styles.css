@@ -8,6 +8,15 @@
 body {
     overflow-x: hidden;
 }
+
+/*SVG codigo */
+
+svg path,
+svg rect{
+  fill: black;
+}
+
+
 @-webkit-keyframes fadeInRight {
     0% {
       opacity: 0;
